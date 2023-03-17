@@ -190,6 +190,7 @@ section .hh {
     transform: scale(1.5);
 }
 h2 {
+    
     font-size: 30px;
     color: darkgrey;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
